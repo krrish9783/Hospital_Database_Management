@@ -5,13 +5,25 @@ Welcome to the **Hospital Database Management Project** repository! Our project 
 ## Screenshots
 
 ### Home Dashboard
-![Home Dashboard](screenshots/Screenshot from 2023-08-26 23-39-10.png.png)
+![Logs APP](shoot/log.png)
 
-### Learning Materials
-![Learning Materials](screenshots/library.png)
+### Doctor App
+![Logs APP](shoot/doc1.png)
 
-### Teacher Dashboard
-![Embedded Compiler](screenshots/teacher.png)
+### Doctor App
+![Logs APP](shoot/doc2.png)
+
+### Doctor App
+![Logs APP](shoot/doc3.png)
+
+### Patient App
+![Logs APP](shoot/p1.png)
+
+### Patient App
+![Logs APP](shoot/p2.png)
+
+### Patient App
+![Logs APP](shoot/p3.png)
 
 
 ## Features
