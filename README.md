@@ -2,6 +2,18 @@
 
 Welcome to the **Hospital Database Management Project** repository! Our project offers an efficient solution for managing medical data, with a specific focus on doctors' and patients' information. By harnessing the capabilities of **MySQL** and **Java**, we've developed a comprehensive system that streamlines the handling of crucial healthcare data.
 
+## Screenshots
+
+### Home Dashboard
+![Home Dashboard](screenshots/home.png)
+
+### Learning Materials
+![Learning Materials](screenshots/library.png)
+
+### Teacher Dashboard
+![Embedded Compiler](screenshots/teacher.png)
+
+
 ## Features
 
 - **Efficient Data Management:** Our system provides a seamless way to manage medical data, ensuring accuracy and accessibility.
