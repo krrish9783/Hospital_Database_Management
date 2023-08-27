@@ -5,7 +5,7 @@ Welcome to the **Hospital Database Management Project** repository! Our project 
 ## Screenshots
 
 ### Home Dashboard
-![Home Dashboard](screenshots/home.png)
+![Home Dashboard](screenshots/Screenshot from 2023-08-26 23-39-10.png.png)
 
 ### Learning Materials
 ![Learning Materials](screenshots/library.png)
